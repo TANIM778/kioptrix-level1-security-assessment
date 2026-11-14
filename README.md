@@ -23,7 +23,7 @@ The assessment covered one training VM. The proposed mitigations were documented
 
 ## Report
 
-[Download the assessment report and lab screenshots](report/kioptrix-level1-security-assessment.docx).
+[Download the assessment report and lab screenshots](https://github.com/TANIM778/kioptrix-level1-security-assessment/blob/main/report/kioptrix-level1-security-assessment.docx.docx).
 
 ## Scope
 
